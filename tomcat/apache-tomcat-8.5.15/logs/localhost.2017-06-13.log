@@ -1,0 +1,2 @@
+13-Jun-2017 23:04:14.006 정보 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2017 23:04:14.007 정보 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
